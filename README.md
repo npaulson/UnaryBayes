@@ -33,4 +33,4 @@ For a quick primer to Bayesian statistics, see the [Bayesian fundamentals - mode
 * seaborn/0.9.0
 
 ## Paper reference
-Paulson, N.H., Jennings, E., Stan, M. “Bayesian strategies for uncertainty quantification of the thermodynamic properties of materials,” International Journal of Engineering Science. Accepted (2019)
+Paulson, N.H., Jennings, E., Stan, M. “Bayesian strategies for uncertainty quantification of the thermodynamic properties of materials,” International Journal of Engineering Science. 142 (2019) 74-93 https://doi.org/10.1016/j.ijengsci.2019.05.011
